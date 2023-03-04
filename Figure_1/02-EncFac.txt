@@ -1,0 +1,421 @@
+EnvFac	EnvFacLong	TimeGroup	GP	values
+Sulfate	Sulfate concentration (mM)	D00	Control	32.29166667
+Sulfate	Sulfate concentration (mM)	D00	Control	27.3125
+Sulfate	Sulfate concentration (mM)	D00	Control	24.98958333
+Sulfate	Sulfate concentration (mM)	D00	Control	32.38541667
+Sulfate	Sulfate concentration (mM)	D00	Control	29.64583333
+Sulfate	Sulfate concentration (mM)	D00	Control	34.07291667
+Sulfate	Sulfate concentration (mM)	D00	Treat	33.76041667
+Sulfate	Sulfate concentration (mM)	D00	Treat	34.01041667
+Sulfate	Sulfate concentration (mM)	D00	Treat	NA
+Sulfate	Sulfate concentration (mM)	D00	Treat	40.813
+Sulfate	Sulfate concentration (mM)	D00	Treat	NA
+Sulfate	Sulfate concentration (mM)	D00	Treat	22.21875
+Sulfate	Sulfate concentration (mM)	D05	Control	35.1875
+Sulfate	Sulfate concentration (mM)	D05	Control	26.04166667
+Sulfate	Sulfate concentration (mM)	D05	Control	26.34375
+Sulfate	Sulfate concentration (mM)	D05	Control	25.44791667
+Sulfate	Sulfate concentration (mM)	D05	Control	30.52083333
+Sulfate	Sulfate concentration (mM)	D05	Control	27.35416667
+Sulfate	Sulfate concentration (mM)	D05	Treat	13.35416667
+Sulfate	Sulfate concentration (mM)	D05	Treat	35.23958333
+Sulfate	Sulfate concentration (mM)	D05	Treat	17.14583333
+Sulfate	Sulfate concentration (mM)	D05	Treat	NA
+Sulfate	Sulfate concentration (mM)	D05	Treat	NA
+Sulfate	Sulfate concentration (mM)	D05	Treat	NA
+Sulfate	Sulfate concentration (mM)	D12	Control	7.09375
+Sulfate	Sulfate concentration (mM)	D12	Control	7.125
+Sulfate	Sulfate concentration (mM)	D12	Control	2.6875
+Sulfate	Sulfate concentration (mM)	D12	Control	6.854166667
+Sulfate	Sulfate concentration (mM)	D12	Control	6.239583333
+Sulfate	Sulfate concentration (mM)	D12	Control	10.86458333
+Sulfate	Sulfate concentration (mM)	D12	Treat	21.90625
+Sulfate	Sulfate concentration (mM)	D12	Treat	36.77083333
+Sulfate	Sulfate concentration (mM)	D12	Treat	NA
+Sulfate	Sulfate concentration (mM)	D12	Treat	38.302
+Sulfate	Sulfate concentration (mM)	D12	Treat	29.35416667
+Sulfate	Sulfate concentration (mM)	D12	Treat	NA
+Sulfate	Sulfate concentration (mM)	D21	Control	NA
+Sulfate	Sulfate concentration (mM)	D21	Control	1.552083333
+Sulfate	Sulfate concentration (mM)	D21	Control	1.572916667
+Sulfate	Sulfate concentration (mM)	D21	Control	1.572916667
+Sulfate	Sulfate concentration (mM)	D21	Control	1.46875
+Sulfate	Sulfate concentration (mM)	D21	Control	1.739583333
+Sulfate	Sulfate concentration (mM)	D21	Treat	NA
+Sulfate	Sulfate concentration (mM)	D21	Treat	NA
+Sulfate	Sulfate concentration (mM)	D21	Treat	33.71875
+Sulfate	Sulfate concentration (mM)	D21	Treat	34.604
+Sulfate	Sulfate concentration (mM)	D21	Treat	33.57291667
+Sulfate	Sulfate concentration (mM)	D21	Treat	34.61458333
+Sulfate	Sulfate concentration (mM)	D30	Control	1.666666667
+Sulfate	Sulfate concentration (mM)	D30	Control	2.145833333
+Sulfate	Sulfate concentration (mM)	D30	Control	NA
+Sulfate	Sulfate concentration (mM)	D30	Control	1.708333333
+Sulfate	Sulfate concentration (mM)	D30	Control	1.520833333
+Sulfate	Sulfate concentration (mM)	D30	Control	1.604166667
+Sulfate	Sulfate concentration (mM)	D30	Treat	23.61458333
+Sulfate	Sulfate concentration (mM)	D30	Treat	34.38541667
+Sulfate	Sulfate concentration (mM)	D30	Treat	36.20833333
+Sulfate	Sulfate concentration (mM)	D30	Treat	34
+Sulfate	Sulfate concentration (mM)	D30	Treat	31.36458333
+Sulfate	Sulfate concentration (mM)	D30	Treat	28.05208333
+Sulfite	Sulfite concentration (mM)	D00	Control	1.984375
+Sulfite	Sulfite concentration (mM)	D00	Control	1.515625
+Sulfite	Sulfite concentration (mM)	D00	Control	1.875
+Sulfite	Sulfite concentration (mM)	D00	Control	2.0625
+Sulfite	Sulfite concentration (mM)	D00	Control	1.671875
+Sulfite	Sulfite concentration (mM)	D00	Control	1.5625
+Sulfite	Sulfite concentration (mM)	D00	Treat	2.78125
+Sulfite	Sulfite concentration (mM)	D00	Treat	2.203125
+Sulfite	Sulfite concentration (mM)	D00	Treat	1.490625
+Sulfite	Sulfite concentration (mM)	D00	Treat	3.8125
+Sulfite	Sulfite concentration (mM)	D00	Treat	1.890625
+Sulfite	Sulfite concentration (mM)	D00	Treat	2.015625
+Sulfite	Sulfite concentration (mM)	D05	Control	0
+Sulfite	Sulfite concentration (mM)	D05	Control	0
+Sulfite	Sulfite concentration (mM)	D05	Control	0
+Sulfite	Sulfite concentration (mM)	D05	Control	0
+Sulfite	Sulfite concentration (mM)	D05	Control	0
+Sulfite	Sulfite concentration (mM)	D05	Control	0
+Sulfite	Sulfite concentration (mM)	D05	Treat	0
+Sulfite	Sulfite concentration (mM)	D05	Treat	0
+Sulfite	Sulfite concentration (mM)	D05	Treat	0
+Sulfite	Sulfite concentration (mM)	D05	Treat	0
+Sulfite	Sulfite concentration (mM)	D05	Treat	0
+Sulfite	Sulfite concentration (mM)	D05	Treat	0
+Sulfite	Sulfite concentration (mM)	D12	Control	0
+Sulfite	Sulfite concentration (mM)	D12	Control	0
+Sulfite	Sulfite concentration (mM)	D12	Control	0
+Sulfite	Sulfite concentration (mM)	D12	Control	0
+Sulfite	Sulfite concentration (mM)	D12	Control	0
+Sulfite	Sulfite concentration (mM)	D12	Control	NA
+Sulfite	Sulfite concentration (mM)	D12	Treat	0
+Sulfite	Sulfite concentration (mM)	D12	Treat	0
+Sulfite	Sulfite concentration (mM)	D12	Treat	0
+Sulfite	Sulfite concentration (mM)	D12	Treat	0
+Sulfite	Sulfite concentration (mM)	D12	Treat	0
+Sulfite	Sulfite concentration (mM)	D12	Treat	0
+Sulfite	Sulfite concentration (mM)	D21	Control	0.6890625
+Sulfite	Sulfite concentration (mM)	D21	Control	1.875
+Sulfite	Sulfite concentration (mM)	D21	Control	2.109375
+Sulfite	Sulfite concentration (mM)	D21	Control	0.3578125
+Sulfite	Sulfite concentration (mM)	D21	Control	0.271875
+Sulfite	Sulfite concentration (mM)	D21	Control	0
+Sulfite	Sulfite concentration (mM)	D21	Treat	0
+Sulfite	Sulfite concentration (mM)	D21	Treat	0
+Sulfite	Sulfite concentration (mM)	D21	Treat	0
+Sulfite	Sulfite concentration (mM)	D21	Treat	0
+Sulfite	Sulfite concentration (mM)	D21	Treat	0
+Sulfite	Sulfite concentration (mM)	D21	Treat	0
+Sulfite	Sulfite concentration (mM)	D30	Control	1.10625
+Sulfite	Sulfite concentration (mM)	D30	Control	1.50625
+Sulfite	Sulfite concentration (mM)	D30	Control	NA
+Sulfite	Sulfite concentration (mM)	D30	Control	1.6875
+Sulfite	Sulfite concentration (mM)	D30	Control	0.465625
+Sulfite	Sulfite concentration (mM)	D30	Control	1.796875
+Sulfite	Sulfite concentration (mM)	D30	Treat	0
+Sulfite	Sulfite concentration (mM)	D30	Treat	0
+Sulfite	Sulfite concentration (mM)	D30	Treat	0
+Sulfite	Sulfite concentration (mM)	D30	Treat	0
+Sulfite	Sulfite concentration (mM)	D30	Treat	0
+Sulfite	Sulfite concentration (mM)	D30	Treat	0
+TOC	TOC concentration (mg/L)	D00	Control	789
+TOC	TOC concentration (mg/L)	D00	Control	803
+TOC	TOC concentration (mg/L)	D00	Control	800.67
+TOC	TOC concentration (mg/L)	D00	Control	756.67
+TOC	TOC concentration (mg/L)	D00	Control	781.33
+TOC	TOC concentration (mg/L)	D00	Control	814
+TOC	TOC concentration (mg/L)	D00	Treat	825
+TOC	TOC concentration (mg/L)	D00	Treat	793.33
+TOC	TOC concentration (mg/L)	D00	Treat	895.67
+TOC	TOC concentration (mg/L)	D00	Treat	848.33
+TOC	TOC concentration (mg/L)	D00	Treat	885.67
+TOC	TOC concentration (mg/L)	D00	Treat	909
+TOC	TOC concentration (mg/L)	D05	Control	684.33
+TOC	TOC concentration (mg/L)	D05	Control	781
+TOC	TOC concentration (mg/L)	D05	Control	658
+TOC	TOC concentration (mg/L)	D05	Control	722.33
+TOC	TOC concentration (mg/L)	D05	Control	788.33
+TOC	TOC concentration (mg/L)	D05	Control	665
+TOC	TOC concentration (mg/L)	D05	Treat	740.67
+TOC	TOC concentration (mg/L)	D05	Treat	776.67
+TOC	TOC concentration (mg/L)	D05	Treat	777
+TOC	TOC concentration (mg/L)	D05	Treat	821.67
+TOC	TOC concentration (mg/L)	D05	Treat	788.67
+TOC	TOC concentration (mg/L)	D05	Treat	674.33
+TOC	TOC concentration (mg/L)	D12	Control	595.67
+TOC	TOC concentration (mg/L)	D12	Control	520
+TOC	TOC concentration (mg/L)	D12	Control	543.33
+TOC	TOC concentration (mg/L)	D12	Control	630.67
+TOC	TOC concentration (mg/L)	D12	Control	605.67
+TOC	TOC concentration (mg/L)	D12	Control	633.67
+TOC	TOC concentration (mg/L)	D12	Treat	797.33
+TOC	TOC concentration (mg/L)	D12	Treat	654.33
+TOC	TOC concentration (mg/L)	D12	Treat	750
+TOC	TOC concentration (mg/L)	D12	Treat	694
+TOC	TOC concentration (mg/L)	D12	Treat	731
+TOC	TOC concentration (mg/L)	D12	Treat	748.33
+TOC	TOC concentration (mg/L)	D21	Control	494
+TOC	TOC concentration (mg/L)	D21	Control	408
+TOC	TOC concentration (mg/L)	D21	Control	439.33
+TOC	TOC concentration (mg/L)	D21	Control	469.33
+TOC	TOC concentration (mg/L)	D21	Control	454.67
+TOC	TOC concentration (mg/L)	D21	Control	485.33
+TOC	TOC concentration (mg/L)	D21	Treat	695.33
+TOC	TOC concentration (mg/L)	D21	Treat	650.67
+TOC	TOC concentration (mg/L)	D21	Treat	505.67
+TOC	TOC concentration (mg/L)	D21	Treat	803.67
+TOC	TOC concentration (mg/L)	D21	Treat	731
+TOC	TOC concentration (mg/L)	D21	Treat	745.33
+TOC	TOC concentration (mg/L)	D30	Control	518.67
+TOC	TOC concentration (mg/L)	D30	Control	522
+TOC	TOC concentration (mg/L)	D30	Control	444.33
+TOC	TOC concentration (mg/L)	D30	Control	444.33
+TOC	TOC concentration (mg/L)	D30	Control	550.33
+TOC	TOC concentration (mg/L)	D30	Control	515.33
+TOC	TOC concentration (mg/L)	D30	Treat	650
+TOC	TOC concentration (mg/L)	D30	Treat	620.67
+TOC	TOC concentration (mg/L)	D30	Treat	683
+TOC	TOC concentration (mg/L)	D30	Treat	680.33
+TOC	TOC concentration (mg/L)	D30	Treat	759.67
+TOC	TOC concentration (mg/L)	D30	Treat	751
+TIC	TIC concentration (mg/L)	D00	Control	163.33
+TIC	TIC concentration (mg/L)	D00	Control	86.33
+TIC	TIC concentration (mg/L)	D00	Control	175.33
+TIC	TIC concentration (mg/L)	D00	Control	161.33
+TIC	TIC concentration (mg/L)	D00	Control	148.33
+TIC	TIC concentration (mg/L)	D00	Control	182
+TIC	TIC concentration (mg/L)	D00	Treat	173.67
+TIC	TIC concentration (mg/L)	D00	Treat	186
+TIC	TIC concentration (mg/L)	D00	Treat	206.33
+TIC	TIC concentration (mg/L)	D00	Treat	194
+TIC	TIC concentration (mg/L)	D00	Treat	175.33
+TIC	TIC concentration (mg/L)	D00	Treat	197.67
+TIC	TIC concentration (mg/L)	D05	Control	228
+TIC	TIC concentration (mg/L)	D05	Control	177.67
+TIC	TIC concentration (mg/L)	D05	Control	198.67
+TIC	TIC concentration (mg/L)	D05	Control	180
+TIC	TIC concentration (mg/L)	D05	Control	182
+TIC	TIC concentration (mg/L)	D05	Control	189
+TIC	TIC concentration (mg/L)	D05	Treat	132
+TIC	TIC concentration (mg/L)	D05	Treat	131
+TIC	TIC concentration (mg/L)	D05	Treat	162
+TIC	TIC concentration (mg/L)	D05	Treat	151.67
+TIC	TIC concentration (mg/L)	D05	Treat	159.67
+TIC	TIC concentration (mg/L)	D05	Treat	314
+TIC	TIC concentration (mg/L)	D12	Control	678
+TIC	TIC concentration (mg/L)	D12	Control	737.67
+TIC	TIC concentration (mg/L)	D12	Control	749.33
+TIC	TIC concentration (mg/L)	D12	Control	745.33
+TIC	TIC concentration (mg/L)	D12	Control	742
+TIC	TIC concentration (mg/L)	D12	Control	539.33
+TIC	TIC concentration (mg/L)	D12	Treat	179.33
+TIC	TIC concentration (mg/L)	D12	Treat	196.33
+TIC	TIC concentration (mg/L)	D12	Treat	159.33
+TIC	TIC concentration (mg/L)	D12	Treat	190.33
+TIC	TIC concentration (mg/L)	D12	Treat	208.33
+TIC	TIC concentration (mg/L)	D12	Treat	200
+TIC	TIC concentration (mg/L)	D21	Control	644.67
+TIC	TIC concentration (mg/L)	D21	Control	692.67
+TIC	TIC concentration (mg/L)	D21	Control	792
+TIC	TIC concentration (mg/L)	D21	Control	692
+TIC	TIC concentration (mg/L)	D21	Control	717.67
+TIC	TIC concentration (mg/L)	D21	Control	646.67
+TIC	TIC concentration (mg/L)	D21	Treat	165.67
+TIC	TIC concentration (mg/L)	D21	Treat	213.67
+TIC	TIC concentration (mg/L)	D21	Treat	182.67
+TIC	TIC concentration (mg/L)	D21	Treat	167
+TIC	TIC concentration (mg/L)	D21	Treat	173
+TIC	TIC concentration (mg/L)	D21	Treat	142.67
+TIC	TIC concentration (mg/L)	D30	Control	697
+TIC	TIC concentration (mg/L)	D30	Control	580.33
+TIC	TIC concentration (mg/L)	D30	Control	677.33
+TIC	TIC concentration (mg/L)	D30	Control	662
+TIC	TIC concentration (mg/L)	D30	Control	532
+TIC	TIC concentration (mg/L)	D30	Control	536
+TIC	TIC concentration (mg/L)	D30	Treat	171
+TIC	TIC concentration (mg/L)	D30	Treat	162.33
+TIC	TIC concentration (mg/L)	D30	Treat	199.33
+TIC	TIC concentration (mg/L)	D30	Treat	148.67
+TIC	TIC concentration (mg/L)	D30	Treat	199
+TIC	TIC concentration (mg/L)	D30	Treat	171
+TotalP	Total phosphorus (mM)	D00	Control	0.044052333
+TotalP	Total phosphorus (mM)	D00	Control	0.042681
+TotalP	Total phosphorus (mM)	D00	Control	0.043326354
+TotalP	Total phosphorus (mM)	D00	Control	0.039293
+TotalP	Total phosphorus (mM)	D00	Control	0.044273965
+TotalP	Total phosphorus (mM)	D00	Control	0.043286
+TotalP	Total phosphorus (mM)	D00	Treat	0.043084354
+TotalP	Total phosphorus (mM)	D00	Treat	0.042822147
+TotalP	Total phosphorus (mM)	D00	Treat	0.043023854
+TotalP	Total phosphorus (mM)	D00	Treat	0.037881354
+TotalP	Total phosphorus (mM)	D00	Treat	0.0411685
+TotalP	Total phosphorus (mM)	D00	Treat	0.043084354
+TotalP	Total phosphorus (mM)	D05	Control	0.041450854
+TotalP	Total phosphorus (mM)	D05	Control	0.0393535
+TotalP	Total phosphorus (mM)	D05	Control	0.040180354
+TotalP	Total phosphorus (mM)	D05	Control	0.045605147
+TotalP	Total phosphorus (mM)	D05	Control	0.043185147
+TotalP	Total phosphorus (mM)	D05	Control	0.044899354
+TotalP	Total phosphorus (mM)	D05	Treat	0.049174647
+TotalP	Total phosphorus (mM)	D05	Treat	0.052340854
+TotalP	Total phosphorus (mM)	D05	Treat	0.044496
+TotalP	Total phosphorus (mM)	D05	Treat	0.049900647
+TotalP	Total phosphorus (mM)	D05	Treat	0.060387354
+TotalP	Total phosphorus (mM)	D05	Treat	0.060972147
+TotalP	Total phosphorus (mM)	D12	Control	0.027656854
+TotalP	Total phosphorus (mM)	D12	Control	0.032638
+TotalP	Total phosphorus (mM)	D12	Control	0.026588
+TotalP	Total phosphorus (mM)	D12	Control	0.026991354
+TotalP	Total phosphorus (mM)	D12	Control	0.025398147
+TotalP	Total phosphorus (mM)	D12	Control	0.029855
+TotalP	Total phosphorus (mM)	D12	Treat	0.051231647
+TotalP	Total phosphorus (mM)	D12	Treat	0.047379854
+TotalP	Total phosphorus (mM)	D12	Treat	0.051675354
+TotalP	Total phosphorus (mM)	D12	Treat	0.046089147
+TotalP	Total phosphorus (mM)	D12	Treat	0.048489
+TotalP	Total phosphorus (mM)	D12	Treat	0.0474605
+TotalP	Total phosphorus (mM)	D21	Control	0.019106147
+TotalP	Total phosphorus (mM)	D21	Control	0.017896147
+TotalP	Total phosphorus (mM)	D21	Control	0.021667354
+TotalP	Total phosphorus (mM)	D21	Control	0.019852354
+TotalP	Total phosphorus (mM)	D21	Control	0.017734854
+TotalP	Total phosphorus (mM)	D21	Control	0.017734854
+TotalP	Total phosphorus (mM)	D21	Treat	0.0289475
+TotalP	Total phosphorus (mM)	D21	Treat	0.029814647
+TotalP	Total phosphorus (mM)	D21	Treat	0.029129
+TotalP	Total phosphorus (mM)	D21	Treat	0.033343854
+TotalP	Total phosphorus (mM)	D21	Treat	0.033888354
+TotalP	Total phosphorus (mM)	D21	Treat	0.032234647
+TotalP	Total phosphorus (mM)	D30	Control	0.017351465
+TotalP	Total phosphorus (mM)	D30	Control	0.017392
+TotalP	Total phosphorus (mM)	D30	Control	0.013620854
+TotalP	Total phosphorus (mM)	D30	Control	0.017956465
+TotalP	Total phosphorus (mM)	D30	Control	0.017553535
+TotalP	Total phosphorus (mM)	D30	Control	0.016141647
+TotalP	Total phosphorus (mM)	D30	Treat	0.0101925
+TotalP	Total phosphorus (mM)	D30	Treat	0.0186625
+TotalP	Total phosphorus (mM)	D30	Treat	0.0191465
+TotalP	Total phosphorus (mM)	D30	Treat	0.018239
+TotalP	Total phosphorus (mM)	D30	Treat	0.02441
+TotalP	Total phosphorus (mM)	D30	Treat	0.0227765
+TotalFe	Total Fe concentration (mg/L)	D00	Control	4.18
+TotalFe	Total Fe concentration (mg/L)	D00	Control	5.06
+TotalFe	Total Fe concentration (mg/L)	D00	Control	5.06
+TotalFe	Total Fe concentration (mg/L)	D00	Control	3.95
+TotalFe	Total Fe concentration (mg/L)	D00	Control	5.45
+TotalFe	Total Fe concentration (mg/L)	D00	Control	5.17
+TotalFe	Total Fe concentration (mg/L)	D00	Treat	4.63
+TotalFe	Total Fe concentration (mg/L)	D00	Treat	5.45
+TotalFe	Total Fe concentration (mg/L)	D00	Treat	4.65
+TotalFe	Total Fe concentration (mg/L)	D00	Treat	5.08
+TotalFe	Total Fe concentration (mg/L)	D00	Treat	5.99
+TotalFe	Total Fe concentration (mg/L)	D00	Treat	5.99
+TotalFe	Total Fe concentration (mg/L)	D05	Control	12.18
+TotalFe	Total Fe concentration (mg/L)	D05	Control	14.53
+TotalFe	Total Fe concentration (mg/L)	D05	Control	13.08
+TotalFe	Total Fe concentration (mg/L)	D05	Control	12.13
+TotalFe	Total Fe concentration (mg/L)	D05	Control	11.57
+TotalFe	Total Fe concentration (mg/L)	D05	Control	12.27
+TotalFe	Total Fe concentration (mg/L)	D05	Treat	9.78
+TotalFe	Total Fe concentration (mg/L)	D05	Treat	8.77
+TotalFe	Total Fe concentration (mg/L)	D05	Treat	10.21
+TotalFe	Total Fe concentration (mg/L)	D05	Treat	9.31
+TotalFe	Total Fe concentration (mg/L)	D05	Treat	9.02
+TotalFe	Total Fe concentration (mg/L)	D05	Treat	11.28
+TotalFe	Total Fe concentration (mg/L)	D12	Control	0
+TotalFe	Total Fe concentration (mg/L)	D12	Control	0
+TotalFe	Total Fe concentration (mg/L)	D12	Control	0
+TotalFe	Total Fe concentration (mg/L)	D12	Control	0
+TotalFe	Total Fe concentration (mg/L)	D12	Control	0
+TotalFe	Total Fe concentration (mg/L)	D12	Control	0
+TotalFe	Total Fe concentration (mg/L)	D12	Treat	10.64
+TotalFe	Total Fe concentration (mg/L)	D12	Treat	9.38
+TotalFe	Total Fe concentration (mg/L)	D12	Treat	11.25
+TotalFe	Total Fe concentration (mg/L)	D12	Treat	11.64
+TotalFe	Total Fe concentration (mg/L)	D12	Treat	11.61
+TotalFe	Total Fe concentration (mg/L)	D12	Treat	10.17
+TotalFe	Total Fe concentration (mg/L)	D21	Control	0
+TotalFe	Total Fe concentration (mg/L)	D21	Control	0
+TotalFe	Total Fe concentration (mg/L)	D21	Control	0
+TotalFe	Total Fe concentration (mg/L)	D21	Control	0
+TotalFe	Total Fe concentration (mg/L)	D21	Control	0
+TotalFe	Total Fe concentration (mg/L)	D21	Control	0
+TotalFe	Total Fe concentration (mg/L)	D21	Treat	8.97
+TotalFe	Total Fe concentration (mg/L)	D21	Treat	12.95
+TotalFe	Total Fe concentration (mg/L)	D21	Treat	12.68
+TotalFe	Total Fe concentration (mg/L)	D21	Treat	9.33
+TotalFe	Total Fe concentration (mg/L)	D21	Treat	12.86
+TotalFe	Total Fe concentration (mg/L)	D21	Treat	13.22
+TotalFe	Total Fe concentration (mg/L)	D30	Control	0
+TotalFe	Total Fe concentration (mg/L)	D30	Control	0
+TotalFe	Total Fe concentration (mg/L)	D30	Control	0
+TotalFe	Total Fe concentration (mg/L)	D30	Control	0
+TotalFe	Total Fe concentration (mg/L)	D30	Control	0
+TotalFe	Total Fe concentration (mg/L)	D30	Control	0
+TotalFe	Total Fe concentration (mg/L)	D30	Treat	11.14
+TotalFe	Total Fe concentration (mg/L)	D30	Treat	11.64
+TotalFe	Total Fe concentration (mg/L)	D30	Treat	11.39
+TotalFe	Total Fe concentration (mg/L)	D30	Treat	10.01
+TotalFe	Total Fe concentration (mg/L)	D30	Treat	12.13
+TotalFe	Total Fe concentration (mg/L)	D30	Treat	12.68
+pH	pH	D00	Control	7.34
+pH	pH	D00	Control	7.20
+pH	pH	D00	Control	7.35
+pH	pH	D00	Control	7.26
+pH	pH	D00	Control	7.16
+pH	pH	D00	Control	7.22
+pH	pH	D00	Treat	7.34
+pH	pH	D00	Treat	7.20
+pH	pH	D00	Treat	7.35
+pH	pH	D00	Treat	7.26
+pH	pH	D00	Treat	7.16
+pH	pH	D00	Treat	7.22
+pH	pH	D05	Control	6.36
+pH	pH	D05	Control	6.55
+pH	pH	D05	Control	6.46
+pH	pH	D05	Control	6.38
+pH	pH	D05	Control	6.60
+pH	pH	D05	Control	6.32
+pH	pH	D05	Treat	6.25
+pH	pH	D05	Treat	6.37
+pH	pH	D05	Treat	6.37
+pH	pH	D05	Treat	6.36
+pH	pH	D05	Treat	6.29
+pH	pH	D05	Treat	6.33
+pH	pH	D12	Control	7.34
+pH	pH	D12	Control	7.38
+pH	pH	D12	Control	7.44
+pH	pH	D12	Control	7.21
+pH	pH	D12	Control	7.41
+pH	pH	D12	Control	7.34
+pH	pH	D12	Treat	6.37
+pH	pH	D12	Treat	6.49
+pH	pH	D12	Treat	6.37
+pH	pH	D12	Treat	6.45
+pH	pH	D12	Treat	6.52
+pH	pH	D12	Treat	6.42
+pH	pH	D21	Control	7.25
+pH	pH	D21	Control	7.39
+pH	pH	D21	Control	7.37
+pH	pH	D21	Control	7.39
+pH	pH	D21	Control	7.64
+pH	pH	D21	Control	7.45
+pH	pH	D21	Treat	6.38
+pH	pH	D21	Treat	6.55
+pH	pH	D21	Treat	6.34
+pH	pH	D21	Treat	6.42
+pH	pH	D21	Treat	6.30
+pH	pH	D21	Treat	6.20
+pH	pH	D30	Control	7.42
+pH	pH	D30	Control	7.37
+pH	pH	D30	Control	7.47
+pH	pH	D30	Control	7.40
+pH	pH	D30	Control	7.46
+pH	pH	D30	Control	7.41
+pH	pH	D30	Treat	6.48
+pH	pH	D30	Treat	6.30
+pH	pH	D30	Treat	6.53
+pH	pH	D30	Treat	6.52
+pH	pH	D30	Treat	6.67
+pH	pH	D30	Treat	6.33
