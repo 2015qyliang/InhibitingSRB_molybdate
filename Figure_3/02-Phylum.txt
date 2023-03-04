@@ -1,0 +1,10 @@
+p_Actinobacteriota
+p_Bacteroidota
+p_Desulfobacterota
+p_Proteobacteria
+p_Chloroflexi
+p_Acidobacteriota
+p_Verrucomicrobiota
+p_Firmicutes
+p_Spirochaetota
+p_Myxococcota
