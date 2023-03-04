@@ -1,0 +1,5 @@
+ComparePairs	statisticD	Pvalue
+D05C_vs_D05M	1	0
+D12C_vs_D12M	0.95	0
+D21C_vs_D21M	0.71	0
+D30C_vs_D30M	1	0
