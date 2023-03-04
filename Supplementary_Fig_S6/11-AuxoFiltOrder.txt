@@ -1,0 +1,29 @@
+L-Arginine	C00062
+L-Cysteine	C00097
+L-Glutamate	C00025
+L-Histidine	C00135
+L-Isoleucine	C00407
+L-Leucine	C00123
+L-Lysine	C00047
+L-Methionine	C00073
+L-Ornithine	C00077
+L-Phenylalanine	C00079
+L-Proline	C00148
+L-Serine	C00065
+L-Threonine	C00188
+L-Tryptophan	C00078
+L-Tyrosine	C00082
+Biotin	C00120
+B12	C00194
+Phosphopantothenate	C03492
+Menadione	C05819
+NAD+	C00003
+Phylloquinol	C03313
+Protoheme	C00032
+Pyridoxal phosphate	C00018
+Riboflavin	C00016
+Tetrahydrofolate	C00101
+Thiamin diphosphate	C00068
+Ubiquinol	C00390
+UMP(Uridylic acid)	C00105
+IMP(Inosinic acid)	C00130

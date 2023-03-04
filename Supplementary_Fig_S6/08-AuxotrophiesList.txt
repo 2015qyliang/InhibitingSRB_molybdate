@@ -1,0 +1,65 @@
+Kost	Biotin	C00120	M00123
+Kost	Biotin	C00120	M00950
+Kost	Biotin	C00120	M00573
+Kost	Biotin	C00120	M00577
+Self	B12	C00194	M00122
+Kost	D-4'-Phosphopantothenate	C03492	M00119
+Kost	D-4'-Phosphopantothenate	C03492	M00913
+Kost	L-Arginine	C00062	M00844
+Kost	L-Arginine	C00062	M00845
+Kost	L-Cysteine	C00097	M00021
+Kost	L-Cysteine	C00097	M00338
+Kost	L-Cysteine	C00097	M00609
+Kost	L-Glutamate	C00025	M00740
+Kost	L-Glutamate	C00025	M00879
+Kost	L-Histidine	C00135	M00026
+Kost	L-Isoleucine	C00407	M00019
+Kost	L-Isoleucine	C00407	M00535
+Kost	L-Isoleucine	C00407	M00570
+Kost	L-Leucine	C00123	M00432
+Kost	L-Lysine	C00047	M00016
+Kost	L-Lysine	C00047	M00525
+Kost	L-Lysine	C00047	M00526
+Kost	L-Lysine	C00047	M00527
+Kost	L-Lysine	C00047	M00030
+Kost	L-Lysine	C00047	M00031
+Kost	L-Methionine	C00073	M00017
+Kost	L-Methionine	C00073	M00034
+Self	L-Ornithine	C00077	M00028
+Self	L-Ornithine	C00077	M00763
+Kost	L-Phenylalanine	C00079	M00024
+Kost	L-Phenylalanine	C00079	M00910
+Kost	L-Proline	C00148	M00015
+Kost	L-Serine	C00065	M00020
+Kost	L-Threonine	C00188	M00018
+Kost	L-Tryptophan	C00078	M00023
+Kost	L-Tyrosine	C00082	M00025
+Kost	L-Tyrosine	C00082	M00040
+Self	Menaquinol	C05819	M00116
+Self	Menaquinol	C05819	M00930
+Self	Menaquinol	C05819	M00931
+Kost	NAD+	C00003	M00115
+Kost	NAD+	C00003	M00912
+Self	Phylloquinol	C03313	M00932
+Self	Protoheme	C00032	M00868
+Self	Protoheme	C00032	M00121
+Self	Protoheme	C00032	M00926
+Self	Protoheme	C00032	M00847
+Self	Pyridoxal phosphate	C00018	M00124
+Self	Pyridoxal phosphate	C00018	M00916
+Self	Riboflavin	C00016	M00125
+Self	Riboflavin	C00016	M00911
+Self	Tetrahydrofolate	C00101	M00126
+Self	Tetrahydrofolate	C00101	M00840
+Self	Tetrahydrofolate	C00101	M00841
+Self	Tetrahydrofolate	C00101	M00842
+Self	Thiamin diphosphate	C00068	M00127
+Self	Thiamin diphosphate	C00068	M00895
+Self	Thiamin diphosphate	C00068	M00896
+Self	Thiamin diphosphate	C00068	M00897
+Self	Thiamin diphosphate	C00068	M00898
+Self	Ubiquinol	C00390	M00117
+Self	Ubiquinol	C00390	M00128
+Kost	UMP(Uridylic acid)	C00105	M00051
+Kost	UMP(Uridylic acid)	C00105	M00052
+Kost	IMP(Inosinic acid)	C00130	M00048

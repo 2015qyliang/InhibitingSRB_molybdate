@@ -1,0 +1,14 @@
+Var1	Freq
+Acidaminococcaceae	41
+Anaerovoracaceae	126
+Bacteroidaceae	214
+Clostridiaceae	162
+Desulfocapsaceae	32
+Fusobacteriaceae	44
+Ilumatobacteraceae	45
+Izemoplasmataceae	22
+Leptospiraceae	61
+Paludibacteraceae	104
+Peptostreptococcaceae	52
+Shewanellaceae	91
+Vibrionaceae	239
