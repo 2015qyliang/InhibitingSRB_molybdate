@@ -1,0 +1,18 @@
+Network Indexes	D00C	D05C	D05M	D12C	D12M	D21C	D21M	D30C	D30M
+Total nodes	594	225	208	370	274	324	340	299	337
+Total links	553	211	174	371	215	284	297	277	296
+Modules	101	45	48	58	70	60	60	56	68
+R square of power-law	0.86	0.87	0.90	0.90	0.93	0.92	0.89	0.90	0.93
+Average degree (avgK)	1.86	1.88	1.67	2.01	1.57	1.75	1.75	1.85	1.76
+Average clustering coefficient (avgCC)	0.005	0.01	0.01	0	0	0	0	0.009	0
+Average path distance (APD)	8.86	6.13	8.01	7.45	8.18	7.22	9.92	8.37	7.98
+Graph Density (GD)	0.031	0.03	0.031	0.023	0.05	0.02	0.026	0.023	0.017
+Modularity	0.87	0.83	0.87	0.83	0.92	0.89	0.90	0.85	0.88
+Nestedness	0.00	0.00	0.02	0.02	0.01	0.01	0.02	0.01	0.01
+Relative modularity (RM)	0.08	0.08	0.10	0.08	0.11	0.10	0.12	0.09	0.09
+Relative nestedness (RN)	-0.26	-1.00	0.19	1.20	-0.37	-0.18	1.40	-0.49	0.35
+No. of large modules (≥ 5 nodes)	25	12	11	16	14	12	16	12	12
+No. of nodes in large modules	413	150	126	272	148	213	241	197	204
+Percentage of nodes in large modules	0.695	0.667	0.606	0.735	0.54	0.657	0.709	0.659	0.605
+Positive links	0.70 	0.89 	0.86 	0.72 	0.67 	0.66 	0.69 	0.78 	0.67 
+Negative links	0.30 	0.11 	0.14 	0.28 	0.33 	0.34 	0.31 	0.22 	0.33 
