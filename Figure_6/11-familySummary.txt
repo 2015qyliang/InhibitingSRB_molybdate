@@ -1,0 +1,7 @@
+Var1	Freq
+Desulfobacteraceae	26
+Desulfobulbaceae	25
+Desulfovibrionaceae	115
+Marinifilaceae	32
+Marinilabiliaceae	25
+Prolixibacteraceae	46
