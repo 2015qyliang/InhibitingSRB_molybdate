@@ -3,6 +3,8 @@
 ## https://journals.asm.org/doi/10.1128/mbio.03535-22
 ### Authors: Qi-Yun Liang , Jin-Yu Zhang, Daliang Ning, Wen-Xing Yu, Guan-Jun Chen, Xuanyu Tao, Jizhong Zhou, Zong-Jun Du, Da-Shuai Mu
 
+## The supplementary tables
+
 Table S1 Significance tests of the bacterial community structure								
 
 Table S2A Topological properties of empirical co-occurrence of bacterial communities along enrichment incubation days
